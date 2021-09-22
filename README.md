@@ -1,2 +1,2 @@
-# my-jekyll-blog
+# Jekyll Testing
 Jekyll blog templates
