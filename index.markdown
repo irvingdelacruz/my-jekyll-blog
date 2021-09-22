@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+this is a paragraph
+
+...and another
